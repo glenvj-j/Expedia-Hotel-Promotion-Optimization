@@ -22,6 +22,9 @@ Expedia Group, Inc. is a major player in the online travel industry, providing s
 
 Each row in the dataset represents a user session with hotel search behavior, capturing a wide array of user and property-level features.
 
+Total data row is 9 Million and column 53
+
+
 ---
 
 ## 🎯 2. Problem Statement
