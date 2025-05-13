@@ -1,6 +1,6 @@
 # Expedia Hotel Analysis and Booking Promotion Prediction Model
 
-Data Period : Nov 2012 - Jun 2013 | [Data Set Source]('https://www.kaggle.com/datasets/vijeetnigam26/expedia-hotel')
+Data Period : Nov 2012 - Jun 2013 | [Data Set Source](https://www.kaggle.com/datasets/vijeetnigam26/expedia-hotel)
 
 📊 *Data Analysis & Processing by:*  [Glen Valencius Joydi](https://github.com/glenvj-j)
 
