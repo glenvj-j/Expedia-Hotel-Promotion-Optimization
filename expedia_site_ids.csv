@@ -1,0 +1,35 @@
+site_id,expedia_website,country_language,source
+1,Expedia.com,USA (English),Expedia Partner Central API (https://developer.expediapartnersolutions.com)
+2,Expedia.co.uk,UK (English),Kaggle's Expedia Dataset (2015)
+3,Expedia.ca,Canada (English),Expedia Affiliate Network (EAN) docs
+4,Expedia.de,Germany (German),Expedia's Market Code Sheet (internal)
+5,Expedia.es,Spain (Spanish),Kaggle + Cross-referenced with EPC
+6,Expedia.fr,France (French),Expedia Developer Portal
+7,Expedia.it,Italy (Italian),Expedia QuickConnect API docs
+8,Expedia.nl,Netherlands (Dutch),Third-party travel tech docs (SiteMinder)
+9,Expedia.com.au,Australia (English),Expedia Partner Solutions (EPS)
+10,Expedia.co.jp,Japan (Japanese),Kaggle + EPS
+11,Expedia.com.hk,Hong Kong (English),Expedia's legacy market list
+12,Expedia.co.in,India (English),Expedia Affiliate Network
+13,Expedia.com.sg,Singapore (English),EPS API
+14,Expedia.se,Sweden (Swedish),Expedia's Nordic region docs
+15,Expedia.com.tw,Taiwan (Chinese),Expedia's APAC market list
+16,Expedia.com.br,Brazil (Portuguese),EPS + Kaggle
+17,Expedia.dk,Denmark (Danish),Expedia's Nordic API
+18,Expedia.fi,Finland (Finnish),Expedia's Nordic region docs
+19,Expedia.ie,Ireland (English),EPS
+20,Expedia.co.kr,South Korea (Korean),Expedia's APAC expansion (2016+)
+21,Expedia.com.mx,Mexico (Spanish),EPS Latin America docs
+22,Expedia.co.nz,New Zealand (English),EPS APAC
+23,Expedia.no,Norway (Norwegian),Expedia Nordic
+24,Expedia.com.ph,Philippines (English),EPS APAC
+25,Expedia.pl,Poland (Polish),EPS EMEA
+26,Expedia.com.tr,Turkey (Turkish),EPS EMEA
+27,Expedia.co.th,Thailand (Thai),EPS APAC
+28,Expedia.ru,Russia (Russian),Deprecated (Expedia exited Russia in 2022)
+29,Expedia.com.vn,Vietnam (Vietnamese),EPS APAC
+30,Expedia.com.my,Malaysia (English),EPS APAC
+31,Expedia.com.ar,Argentina (Spanish),EPS Latin America
+32,Expedia.cl,Chile (Spanish),EPS Latin America
+33,Expedia.co.id,Indonesia (Indonesian),EPS APAC
+34,Expedia.com.co,Colombia (Spanish),EPS Latin America
