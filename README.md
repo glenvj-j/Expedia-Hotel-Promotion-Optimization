@@ -7,6 +7,11 @@ Data Period : Nov 2012 - Jun 2013 | [Data Set Source](https://www.kaggle.com/dat
 
 📊 *Data Analysis & Processing by:*  [Glen Valencius Joydi](https://github.com/glenvj-j)
 
+
+> [!NOTE]
+> Presentation Deck : [View the Google Slides Presentation](https://docs.google.com/presentation/d/1AWK5ecpJSKrQAWsBlVbV3jjfpSaivxST3znhYEtmc1w/edit#slide=id.p)<br>
+
+
 ## 📌 Overview
 
 This project explores user behavior and booking patterns on Expedia to build a predictive model for targeted hotel promotion distribution. The goal is to increase booking conversion rates and maximize profitability by identifying users most likely to redeem promotional offers.
